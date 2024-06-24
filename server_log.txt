@@ -1,0 +1,4 @@
+Server: Listening ...
+Server: Connected to client
+Server (sending): Hello, this is the Server for Oscar H.
+Server: File read and sent

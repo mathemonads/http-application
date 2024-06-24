@@ -1,0 +1,3 @@
+Client: Connected to server
+Client (received): Hello, this is the Server for Oscar H.
+Client: Received and wrote file
